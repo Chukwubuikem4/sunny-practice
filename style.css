@@ -508,7 +508,7 @@ min-width: 100%;
     footer{
       background-color: var(--dark-m-cyan);
       text-align: center;
-      height: 30vh;
+      height: 40vh;
     }
 
     footer svg{
