@@ -536,8 +536,8 @@ min-width: 100%;
       margin-left: 1rem;
     }
 
-/* 500px width screen */
-    @media(max-width: 500px) {
+/* 750px width screen */
+    @media(max-width: 750px) {
       #main-header{
         background-image: url('images/mobile/image-header.jpg');
         background-size: cover;
