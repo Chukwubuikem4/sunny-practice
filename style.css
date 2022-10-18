@@ -259,6 +259,7 @@ header#main-header img.down-arrow{
   display: block;
   margin: 0 auto;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .third-container{
@@ -541,7 +542,7 @@ footer .socials>a{
 }
 
 
-@media (min-width: 700px){
+@media (min-width: 1010px){
   nav#navigation{
     margin: 2em 1em;
   }
