@@ -529,6 +529,7 @@ footer li{
 footer a{
   color: var(--dark-cyan);
   text-decoration: none;
+  font-family: 'Barlow';
 }
 
 footer .socials{
